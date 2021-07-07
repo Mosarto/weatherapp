@@ -5,6 +5,7 @@ Project created to replicate design made by [DesignSense](https://www.youtube.co
 
 ## Demo:
 
+<img src="https://raw.githubusercontent.com/Mosarto/weatherapp/master/demo/demo.gif" width="340" height="640" title="Screen Shoot">
 
 ## Packages used:
 
