@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27.493" height="12.863" viewBox="0 0 27.493 12.863">
+  <g id="Grupo_80" data-name="Grupo 80" transform="translate(0)">
+    <path id="Path_77" data-name="Path 77" d="M8.572,165.768H20.421a.518.518,0,1,0,0-1.036H18.749a5.872,5.872,0,1,0-10.99,0H.517a.518.518,0,1,0,0,1.036H8.569Zm-.154-3.107a4.837,4.837,0,1,1,9.209,2.069H8.882a4.852,4.852,0,0,1-.464-2.068Z" transform="translate(0 -152.906)" fill="#fcd038"/>
+    <path id="Path_78" data-name="Path 78" d="M246.517,84.637a.518.518,0,0,0,.518-.518V82.307a.518.518,0,0,0-1.036,0V84.12a.518.518,0,0,0,.518.518Z" transform="translate(-233.263 -81.789)" fill="#fcd038"/>
+    <path id="Path_79" data-name="Path 79" d="M121.272,136.213a.518.518,0,1,0,.732-.732l-1.282-1.282a.518.518,0,0,0-.732.732Z" transform="translate(-113.633 -131.341)" fill="#fcd038"/>
+    <path id="Path_80" data-name="Path 80" d="M68.1,261.246h1.812a.518.518,0,0,0,0-1.036H68.1a.518.518,0,1,0,0,1.036Z" transform="translate(-64.082 -250.972)" fill="#fcd038"/>
+    <path id="Path_82" data-name="Path 82" d="M347.93,136.364a.516.516,0,0,0,.366-.154l1.282-1.282a.518.518,0,0,0-.732-.732l-1.282,1.282a.518.518,0,0,0,.366.884Z" transform="translate(-329.424 -131.34)" fill="#fcd038"/>
+    <path id="Path_87" data-name="Path 87" d="M210.988,198.845l-2.071-1.707a.521.521,0,0,0-.659,0l-2.071,1.707a.518.518,0,1,0,.658.8l1.224-1.009v2.682a.518.518,0,1,0,1.036,0v-2.682l1.224,1.009a.518.518,0,1,0,.658-.8Z" transform="translate(-195.333 -191.054)" fill="#fcd038"/>
+    <path id="Path_81" data-name="Path 81" d="M389.936,261.246h1.812a.518.518,0,0,0,0-1.036h-1.812a.518.518,0,0,0,0,1.036Z" transform="translate(-369.257 -250.972)" fill="#fcd038"/>
+    <path id="Path_83" data-name="Path 83" d="M467.349,310.21h-2.412a.518.518,0,1,0,0,1.036h2.412a.518.518,0,0,0,0-1.036Z" transform="translate(-440.373 -298.383)" fill="#fcd038"/>
+    <ellipse id="Ellipse_25" data-name="Ellipse 25" cx="0.518" cy="0.518" rx="0.518" ry="0.518" transform="translate(21.975 11.827)" fill="#fcd038"/>
+  </g>
+</svg>
