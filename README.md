@@ -3,7 +3,7 @@
 Project created to replicate design made by DesignSense 😎.
 <br/><br/>
 
-## Demo
+## Demo:
 
 
 ## Packages used:
