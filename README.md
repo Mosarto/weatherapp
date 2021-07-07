@@ -1,6 +1,6 @@
 # ☀️ Weather App ❄️
 
-Project created to replicate design made by DesignSense 😎.
+Project created to replicate design made by [DesignSense](https://www.youtube.com/channel/UCK3KESgQlmEBJ5DnRxWJ9oA) 😎.
 <br/><br/>
 
 ## Demo:
